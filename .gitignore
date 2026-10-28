@@ -1,0 +1,7 @@
+.venv/
+data/*
+!data/.gitkeep
+notebook/01_explore.ipynb
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
